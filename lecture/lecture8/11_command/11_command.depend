@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685278260 source:c:\cygwin64\home\yuting\projects\cs1604-spring2023\examples\lecture8\11_command\main.cpp
+	<iostream>
+	<sstream>
+	<cassert>
+	<thread>
+	<chrono>
+	<Random.h>
+

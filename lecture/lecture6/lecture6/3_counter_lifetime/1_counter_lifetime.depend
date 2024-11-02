@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650782515 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture6\1_counter_lifetime\main.cpp
+	<iostream>
+
+1650941373 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture6\3_counter_lifetime\main.cpp
+	<iostream>
+

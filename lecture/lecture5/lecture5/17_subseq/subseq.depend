@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649636040 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\17_subseq\main.cpp
+	<iostream>
+	<Vector.h>
+	<cassert>
+

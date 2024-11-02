@@ -1,0 +1,36 @@
+int Ackermann(int m, int n){
+	if(m==0) return n+1;
+	if(n==0) return Ackermann(m-1,1);
+	return Ackermann(m-1,Ackermann(m,n-1));
+}
+
+
+int Ackermann_iter(int m, int n)
+{
+    Stack<int> s;
+    s.push(m);
+    s.push(n);
+
+    while (s.size()>1){
+	n = s.pop();
+	m = s.pop();
+	if(m==0){
+		s.push(n+1);
+		continue;
+	}
+	if (n == 0){
+		s.push(m-1);
+		s.push(1);
+		continue;
+	}
+	s.push(m-1);
+	s.push(m);
+	s.push(n-1);
+}
+
+    return s.pop();
+}
+
+
+
+该程序通过循环push和pop栈内元素通过类似递归的方法不断将问题转为更低一级的问题，通过一次次转变最终转为m=0的问题求出值此时开始返回求上一级的问题，最终通过若干次循环，每个问题都转化为最简单的A(0,n)=n+1如此得到结果。可以把这个函数理解为通过手动实现递归的栈，类似于用循环实现第一问中的递归且为尾递归方式。

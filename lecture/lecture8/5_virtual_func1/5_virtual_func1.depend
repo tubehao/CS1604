@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653814143 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture8\5_virtual_func1\main.cpp
+	<iostream>
+	<string>
+	<Random.h>
+	<cassert>
+

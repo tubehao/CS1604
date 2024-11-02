@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1678263296 source:d:\cppcode\4_property\numberproperty.cpp
+	<iostream>
+
+1678263365 source:d:\cppcode\4_property\main.cpp
+	<iostream>
+	"NumberProperty.h"
+
+1678262304 d:\cppcode\4_property\numberproperty.h
+
+1678263296 source:d:\下载\assignment2_new\4_property\numberproperty.cpp
+	<iostream>
+
+1678276877 source:d:\下载\assignment2_new\4_property\main.cpp
+	<iostream>
+	"NumberProperty.h"
+
+1678262304 d:\下载\assignment2_new\4_property\numberproperty.h
+
+1678699372 source:d:\文件夹\桌面\cpp\assignment2_new\as2\4_property\main.cpp
+	<iostream>
+	"NumberProperty.h"
+
+1678262304 d:\文件夹\桌面\cpp\assignment2_new\as2\4_property\numberproperty.h
+
+1679495286 source:d:\文件夹\桌面\cpp\assignment2_new\as2\4_property\numberproperty.cpp
+	<iostream>
+

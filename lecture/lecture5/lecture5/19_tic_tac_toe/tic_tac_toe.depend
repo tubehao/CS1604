@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1648957724 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\tic_tac_toe\main.cpp
+	<iostream>
+	<cassert>
+	<sstream>
+	<Grid.h>
+
+1649678492 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\19_tic_tac_toe\main.cpp
+	<iostream>
+	<cassert>
+	<fstream>
+	<sstream>
+	<Grid.h>
+

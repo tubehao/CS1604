@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649154464 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\15_matrix_addition\main.cpp
+	<iostream>
+	<Vector.h>
+	<iomanip>
+	<cassert>
+

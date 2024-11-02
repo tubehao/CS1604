@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680480479 source:d:\обть\lecture5\lecture5\18_grid\main.cpp
+	<iostream>
+	<Grid.h>
+

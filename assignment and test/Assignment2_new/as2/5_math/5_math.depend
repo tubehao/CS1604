@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1678264349 source:d:\cppcode\5_math\conver2int.cpp
+	<iostream>
+
+1678264610 source:d:\cppcode\5_math\sqrt.cpp
+	<iostream>
+	<iomanip>
+
+1678265009 source:d:\cppcode\5_math\numberproperty.cpp
+	<iostream>
+
+1678264349 source:d:\下载\assignment2_new\5_math\conver2int.cpp
+	<iostream>
+
+1678287714 source:d:\下载\assignment2_new\5_math\sqrt.cpp
+	<iostream>
+	<iomanip>
+
+1678277205 source:d:\下载\assignment2_new\5_math\numberproperty.cpp
+	<iostream>
+
+1678288176 source:d:\下载\assignment2_new\5_math\main.cpp
+	<iostream>
+	"MyMath.h"
+	<iomanip>
+
+1678264748 d:\下载\assignment2_new\5_math\mymath.h
+	"Convert2Int.h"
+	"NumberProperty.h"
+	"Sqrt.h"
+
+1678284987 d:\下载\assignment2_new\5_math\convert2int.h
+
+1678277446 d:\下载\assignment2_new\5_math\numberproperty.h
+
+1678286520 d:\下载\assignment2_new\5_math\sqrt.h
+
+1678264349 source:d:\下载\assignment2_new\5_math\convert2int.cpp
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650421039 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\35_map\main.cpp
+	<iostream>
+	<string>
+	<Map.h>
+

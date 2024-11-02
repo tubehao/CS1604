@@ -1,0 +1,36 @@
+class MyQueue {
+public:
+void enqueue(int v)
+{
+    if (tail.size()>0) tail.push(v);
+    else {
+        while (head.size()>0){
+            int a;
+            a=head.pop();
+            tail.push(a);
+        }
+        tail.push(v);
+    }
+}
+
+
+int dequeue()
+{
+    if (head.size()>0) return head.pop();
+    else {
+        while (tail.size()>0){
+            int a;
+            a=tail.pop();
+            head.push(a);
+        }
+        return head.pop();
+    }
+}
+
+bool isEmpty() const {
+    return (head.size()==0&&tail.size()==0);
+}
+
+private:
+    Stack<int> head, tail; // head和tail分别代表出队栈和入队栈
+};

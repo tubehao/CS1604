@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1653394936 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\22_vector_list\main.cpp
+	<iostream>
+	"Vector.h"
+
+1653394750 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\22_vector_list\vector.h
+
+1653397846 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\22_vector_list\vector.cpp
+	"LinkedList.h"
+	"Vector.h"
+
+1653392817 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\22_vector_list\linkedlist.h
+	<cstddef>
+	<utility>
+
+1653394369 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\22_vector_list\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+	<cassert>
+

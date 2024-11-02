@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653805965 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture8\4_multiple_inherit\main.cpp
+	<iostream>
+	<string>
+

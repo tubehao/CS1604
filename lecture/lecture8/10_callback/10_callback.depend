@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1685270499 source:c:\cygwin64\home\yuting\projects\cs1604-spring2023\examples\lecture8\10_callback\main.cpp
+	<iostream>
+	"client.h"
+
+1685272947 c:\cygwin64\home\yuting\projects\cs1604-spring2023\examples\lecture8\10_callback\client.h
+	<ctime>
+
+1685273066 source:c:\cygwin64\home\yuting\projects\cs1604-spring2023\examples\lecture8\10_callback\client.cpp
+	<iostream>
+	"client.h"
+	"server.h"
+
+1685273054 c:\cygwin64\home\yuting\projects\cs1604-spring2023\examples\lecture8\10_callback\server.h
+	<ctime>
+
+1685273186 source:c:\cygwin64\home\yuting\projects\cs1604-spring2023\examples\lecture8\10_callback\server.cpp
+	<chrono>
+	"server.h"
+

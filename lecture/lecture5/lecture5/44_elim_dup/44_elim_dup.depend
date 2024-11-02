@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680480482 source:d:\обть\lecture5\lecture5\44_elim_dup\main.cpp
+	<iostream>
+	<Set.h>
+	<Vector.h>
+

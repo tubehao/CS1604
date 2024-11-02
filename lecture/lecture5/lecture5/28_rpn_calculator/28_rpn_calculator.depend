@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649589520 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\28_rpn_calculator\main.cpp
+	<iostream>
+	<cctype>
+	<Stack.h>
+

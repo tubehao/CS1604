@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1653892167 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture8\7_visitor\visitor.cpp
+	"visitor.h"
+	<iostream>
+
+1653892156 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture8\7_visitor\visitor.h
+	"unit.h"
+
+1653892137 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture8\7_visitor\unit.h
+	<string>
+
+1653826824 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture8\7_visitor\unit.cpp
+	"unit.h"
+	"visitor.h"
+
+1653892121 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture8\7_visitor\main.cpp
+	<iostream>
+	<string>
+	<Random.h>
+	<cassert>
+	<Vector.h>
+	"unit.h"
+	"visitor.h"
+

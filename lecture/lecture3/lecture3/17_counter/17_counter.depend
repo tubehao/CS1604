@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1646537872 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture3\17_counter\counter.cpp
+
+1646552640 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture3\17_counter\main.cpp
+	<iostream>
+	"counter.h"
+
+1646537874 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture3\17_counter\counter.h
+

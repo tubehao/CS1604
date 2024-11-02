@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649752904 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\32_router\main.cpp
+	<iostream>
+	<string>
+	<Queue.h>
+	<Vector.h>
+	<Random.h>
+

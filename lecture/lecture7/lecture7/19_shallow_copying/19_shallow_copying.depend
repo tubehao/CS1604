@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653377273 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\19_shallow_copying\fvector.cpp
+	"fvector.h"
+
+1653377001 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\19_shallow_copying\fvector.h
+
+1653380128 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\19_shallow_copying\main.cpp
+	<iostream>
+	<Random.h>
+	"fvector.h"
+

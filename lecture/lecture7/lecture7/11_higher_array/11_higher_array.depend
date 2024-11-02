@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653221054 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\11_higher_array\main.cpp
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1653231218 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\17_whack_a_mole\engine.cpp
+	"engine.h"
+	<Random.h>
+	<cassert>
+
+1651999530 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\17_whack_a_mole\engine.h
+	"field.h"
+	<ostream>
+
+1653231172 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\17_whack_a_mole\field.h
+	"mole.h"
+	<Grid.h>
+	<ostream>
+
+1651997101 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\17_whack_a_mole\mole.h
+
+1652059320 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\17_whack_a_mole\main.cpp
+	<iostream>
+	<cassert>
+	"engine.h"
+
+1651997107 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\17_whack_a_mole\mole.cpp
+	"mole.h"
+
+1653231115 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture7\17_whack_a_mole\field.cpp
+	"field.h"
+	<iomanip>
+	<Random.h>
+

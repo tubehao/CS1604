@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649578626 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\26_duplicate\main.cpp
+	<iostream>
+	<Stack.h>
+

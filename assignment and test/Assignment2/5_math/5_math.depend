@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678264349 source:d:\cppcode\5_math\conver2int.cpp
+	<iostream>
+
+1678264610 source:d:\cppcode\5_math\sqrt.cpp
+	<iostream>
+	<iomanip>
+
+1678265009 source:d:\cppcode\5_math\numberproperty.cpp
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650371826 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\42_morse_decode\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<Map.h>
+	<Vector.h>
+

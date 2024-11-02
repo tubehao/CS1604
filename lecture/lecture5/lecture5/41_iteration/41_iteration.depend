@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1650423878 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture5\41_iteration\main.cpp
+	<iostream>
+	<Vector.h>
+	<Grid.h>
+	<Map.h>
+	<Set.h>
+	<Stack.h>
+	<Queue.h>
+
+1680480482 source:d:\обть\lecture5\lecture5\41_iteration\main.cpp
+	<iostream>
+	<Vector.h>
+	<Grid.h>
+	<Map.h>
+	<Set.h>
+	<Stack.h>
+	<Queue.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1685279401 source:c:\cygwin64\home\yuting\projects\cs1604-spring2023\examples\lecture8\12_command_undo\main.cpp
+	<iostream>
+	<sstream>
+	<cassert>
+	<thread>
+	<chrono>
+	<Random.h>
+	<Stack.h>
+
